@@ -51,7 +51,7 @@ export function Content() {
       </p>
 
       <p>
-        <a href="#">Forgot password?</a>
+        <a href="#"> Forgot password?</a>
       </p>
     </div>
   );
